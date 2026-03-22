@@ -1,0 +1,97 @@
+_dataset:
+  class: Wu2020
+  code: Wu2020
+  doi: 10.1088/1741-2552/abc1b6
+  interval:
+  - 0
+  - 4
+  n_subjects: 6
+  paradigm: imagery
+acquisition:
+  channel_types:
+    eeg: 122
+    misc: 10
+  filters:
+    bandpass:
+    - 0.5
+    - 100
+  ground: scalp GRD
+  hardware: Neuroscan SynAmps2
+  line_freq: 50.0
+  montage: standard_1005
+  n_channels: 122
+  reference: scalp REF
+  sampling_rate: 1000.0
+  sensor_type: Ag/AgCl
+bci_application:
+  applications:
+  - motor_control
+  environment: laboratory
+cross_validation:
+  evaluation_type:
+  - within_subject
+data_structure:
+  n_trials: 1114
+  trials_context: 'S1: 240, S2: 160, S3: 160, S4: 80, S5: 234, S6: 240 = 1114'
+documentation:
+  country: HK
+  data_url: https://zenodo.org/records/18961128
+  doi: 10.1088/1741-2552/abc1b6
+  institution: City University of Hong Kong
+  investigators:
+  - Xiaoli Wu
+  - Wenhui Zhang
+  - Zhibo Fu
+  - Roy T.H. Cheung
+  - Rosa H.M. Chan
+  license: CC-BY-4.0
+  publication_year: 2020
+  repository: Zenodo
+experiment:
+  class_labels:
+  - left_hand
+  - right_hand
+  events:
+    left_hand: 1
+    right_hand: 2
+  feedback_type: none
+  mode: offline
+  n_classes: 2
+  paradigm: imagery
+  primary_modality: visual
+  stimulus_modalities:
+  - visual
+  - auditory
+  stimulus_type: arrow cues
+  study_design: Motor execution (fist clenching) with simultaneous scalp and ear-EEG recording
+  synchronicity: synchronous
+  trial_duration: 4.0
+file_format: Curry
+paradigm_specific:
+  detected_paradigm: motor_imagery
+  imagery_tasks:
+  - left_hand
+  - right_hand
+participants:
+  age_max: 28.0
+  age_mean: 25.0
+  age_min: 22.0
+  gender:
+    female: 4
+    male: 2
+  handedness: right-handed
+  health_status: healthy
+  n_subjects: 6
+  species: human
+runs_per_session: 1
+sessions_per_subject: 1
+signal_processing:
+  classifiers:
+  - EEGNet
+tags:
+  modality:
+  - Motor
+  pathology:
+  - Healthy
+  type:
+  - Research
