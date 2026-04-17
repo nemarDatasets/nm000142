@@ -1,0 +1,87 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Xiaoli Wu": {
+      "orcid": "0000-0002-5651-1673"
+    },
+    "Wenhui Zhang": {
+      "orcid": "0000-0002-7672-3104"
+    },
+    "Zhibo Fu": {
+      "orcid": "0000-0003-0099-3201"
+    },
+    "Roy T.H. Cheung": {},
+    "Rosa H.M. Chan": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.1088/1741-2552/abc1b6",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000142",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000142",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    }
+  ],
+  "title": "Ear-EEG motor execution dataset from Wu et al 2020",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "5.3 GB (16 files)"
+  ],
+  "formats": [
+    ".bdf",
+    ".html",
+    ".json",
+    ".md",
+    ".tsv",
+    ".yaml",
+    ".yml"
+  ],
+  "description": "This dataset comprises ear-EEG recordings from 6 healthy participants performing motor execution tasks (fist clenching) with simultaneous scalp and ear-based EEG acquisition. The study employed a two-class motor imagery paradigm with visual and auditory cues, recording 1,114 trials across left-hand and right-hand movement conditions at 1000 Hz sampling rate using 122 scalp channels. The dataset serves as a benchmark for investigating in-ear EEG sensing capabilities for motor task classification in brain-computer interface applications.",
+  "methods_description": "Motor execution study with simultaneous scalp and ear-EEG recording using Neuroscan SynAmps2 hardware. Data acquired at 1000 Hz sampling rate from 122 EEG channels (Ag/AgCl sensors) with standard 1005 montage. Participants performed fist clenching tasks cued by visual and auditory stimuli in a synchronous, offline paradigm. Online bandpass filtering applied (0.5-100 Hz). Trial duration: 4 seconds. Reference: scalp REF; Ground: scalp GRD.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "motor imagery"
+    },
+    {
+      "term": "brain-computer interfaces"
+    },
+    {
+      "term": "motor execution"
+    },
+    {
+      "term": "ear-EEG"
+    },
+    {
+      "term": "wearable biosensors"
+    }
+  ],
+  "source_hash": "b51b95b1c4170723fc30267113c3da7f19dc1c41685813472793591fd5b02775"
+}
