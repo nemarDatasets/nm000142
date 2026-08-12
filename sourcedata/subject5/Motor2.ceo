@@ -1,0 +1,316 @@
+﻿POINT_KEYWORDS START
+   PointKeyLocations    = LOCATION_LIST
+   PointKeyNormals      = NO_LIST
+   PointKeyContrib      = NO_LIST
+   PointKeyFlags        = NO_LIST
+   PointKeyStrengths    = NO_LIST
+   PointKeyErrors       = NO_LIST
+   PointKeyDeviations   = NO_LIST
+   PointKeyFields       = NO_LIST
+   PointKeyMgfp         = NO_LIST
+   PointKeyAdditive     = NO_LIST
+   PointKeyMultiplicative = NO_LIST
+   PointKeyComponents   = NO_LIST
+   PointKeyColorind     = NO_LIST
+   PointKeyChartrafo    = NO_LIST
+   PointKeyNumbers      = NUMBER_LIST
+   PointKeyNeighbors    = NO_LIST
+   PointKeyTriangles    = NO_LIST
+   PointKeyRemarks      = REMARK_LIST
+   PointKeyCompressed   = NO_LIST
+   PointKeyIndices      = NO_LIST
+   PointKeyInflated     = NO_LIST
+   PointKeyEllipsoids   = NO_LIST
+   PointNrLocations     =  62
+   PointNrTimepts       =  1
+   PointType            =  0
+   PointCoordSystem     =  0
+   PointTypeSamples     =  0
+   PointPlotFlags       =  0
+   PointPlotFlagsEx     =  0
+   PointPlotColor1      =  0
+   PointPlotColor2      =  0
+   PointPlotColor3      =  0
+   PointPlotShape       =  0
+   PointPlotSurface     =  0
+   PointPlotTranspa     =  0
+   PointPlotClipping    =  0
+   PointPlotTextsize    =  0
+   PointPlotBorder      =  0
+   PointPlotAdjacent    =  0
+   PointPlotClosed      =  0
+   PointPlotType1       =  0
+   PointPlotType2       =  0
+   PointPlotType3       =  0
+   PointPlotInflations  =  0
+   PointPlotInfwanted   =  0
+   PointPlotRepaired    =  0
+   PointTFirst          =  0
+   PointTDelta          =  0
+   PointDistance        =  0
+   PointArea            =  0
+   PointVolume          =  0
+   PointSymbolsize      =  0
+   PointLinewidth       =  0
+   PointPlotDist1       =  0
+   PointPlotDist2       =  0
+   PointPlotDist3       =  0
+   PointPlotPlane1      = (0,0,0)
+   PointPlotPlane2      = (0,0,0)
+   PointPlotPlane3      = (0,0,0)
+   PointSymbolscale     = 0 ...
+POINT_KEYWORDS END
+
+POINT_DESCRIPTION START_LIST	# Do not edit!
+
+POINT_DESCRIPTION END_LIST
+
+POINT_TRAFO START_LIST	# Do not edit!
+POINT_TRAFO END_LIST
+
+LOCATION_LIST START
+   ListDescription      = event timestamps
+   ListUnits            = 
+   ListNrColumns        =  7
+   ListNrRows           =  62
+   ListNrTimepts        =  1
+   ListNrBlocks         =  1
+   ListBinary           =  0
+   ListType             =  0
+   ListTrafoType        =  0
+   ListGridType         =  2
+   ListFirstColumn      =  1
+   ListIndexMin         = -1
+   ListIndexMax         = -1
+   ListIndexAbsMax      = -1
+LOCATION_LIST END
+
+LOCATION_LIST START_LIST	# Do not edit!
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+  0	 0	 0	-1	 0	 0	 0
+LOCATION_LIST END_LIST
+
+NUMBER_LIST START
+   ListDescription      = event numbers
+   ListUnits            = 
+   ListNrColumns        =  11
+   ListNrRows           =  62
+   ListNrTimepts        =  1
+   ListNrBlocks         =  1
+   ListBinary           =  0
+   ListType             =  0
+   ListTrafoType        =  0
+   ListGridType         =  2
+   ListFirstColumn      =  1
+   ListIndexMin         = -1
+   ListIndexMax         = -1
+   ListIndexAbsMax      = -1
+NUMBER_LIST END
+
+NUMBER_LIST START_LIST	# Do not edit!
+  47147	 0	 1	-1	 47147	 47178	 0	 0	 0	 0	 0
+  58280	 0	 2	-1	 58280	 58310	 0	 0	 0	 0	 0
+  69412	 0	 1	-1	 69412	 69442	 0	 0	 0	 0	 0
+  80528	 0	 2	-1	 80528	 80558	 0	 0	 0	 0	 0
+  91660	 0	 1	-1	 91660	 91690	 0	 0	 0	 0	 0
+  102776	 0	 2	-1	 102776	 102806	 0	 0	 0	 0	 0
+  113926	 0	 2	-1	 113926	 113956	 0	 0	 0	 0	 0
+  125074	 0	 1	-1	 125074	 125104	 0	 0	 0	 0	 0
+  136191	 0	 1	-1	 136191	 136221	 0	 0	 0	 0	 0
+  147356	 0	 2	-1	 147356	 147386	 0	 0	 0	 0	 0
+  158505	 0	 1	-1	 158505	 158536	 0	 0	 0	 0	 0
+  169621	 0	 2	-1	 169621	 169651	 0	 0	 0	 0	 0
+  180737	 0	 2	-1	 180737	 180767	 0	 0	 0	 0	 0
+  191853	 0	 1	-1	 191853	 191883	 0	 0	 0	 0	 0
+  202969	 0	 1	-1	 202969	 202999	 0	 0	 0	 0	 0
+  214084	 0	 2	-1	 214084	 214115	 0	 0	 0	 0	 0
+  250398	 0	 2	-1	 250398	 250429	 0	 0	 0	 0	 0
+  261515	 0	 1	-1	 261515	 261545	 0	 0	 0	 0	 0
+  272630	 0	 2	-1	 272630	 272660	 0	 0	 0	 0	 0
+  283746	 0	 1	-1	 283746	 283777	 0	 0	 0	 0	 0
+  294862	 0	 1	-1	 294862	 294892	 0	 0	 0	 0	 0
+  305978	 0	 2	-1	 305978	 306008	 0	 0	 0	 0	 0
+  317094	 0	 2	-1	 317094	 317124	 0	 0	 0	 0	 0
+  328226	 0	 1	-1	 328226	 328256	 0	 0	 0	 0	 0
+  339375	 0	 1	-1	 339375	 339406	 0	 0	 0	 0	 0
+  350525	 0	 2	-1	 350525	 350555	 0	 0	 0	 0	 0
+  361657	 0	 2	-1	 361657	 361687	 0	 0	 0	 0	 0
+  372773	 0	 1	-1	 372773	 372803	 0	 0	 0	 0	 0
+  383889	 0	 1	-1	 383889	 383919	 0	 0	 0	 0	 0
+  395004	 0	 2	-1	 395004	 395035	 0	 0	 0	 0	 0
+  406121	 0	 2	-1	 406121	 406151	 0	 0	 0	 0	 0
+  417236	 0	 1	-1	 417236	 417266	 0	 0	 0	 0	 0
+  460166	 0	 1	-1	 460166	 460196	 0	 0	 0	 0	 0
+  471282	 0	 2	-1	 471282	 471312	 0	 0	 0	 0	 0
+  482398	 0	 1	-1	 482398	 482428	 0	 0	 0	 0	 0
+  493514	 0	 2	-1	 493514	 493544	 0	 0	 0	 0	 0
+  504630	 0	 2	-1	 504630	 504660	 0	 0	 0	 0	 0
+  515746	 0	 1	-1	 515746	 515776	 0	 0	 0	 0	 0
+  526878	 0	 1	-1	 526878	 526909	 0	 0	 0	 0	 0
+  538011	 0	 2	-1	 538011	 538041	 0	 0	 0	 0	 0
+  549160	 0	 2	-1	 549160	 549190	 0	 0	 0	 0	 0
+  560276	 0	 1	-1	 560276	 560306	 0	 0	 0	 0	 0
+  571408	 0	 2	-1	 571408	 571438	 0	 0	 0	 0	 0
+  582557	 0	 1	-1	 582557	 582588	 0	 0	 0	 0	 0
+  593673	 0	 2	-1	 593673	 593703	 0	 0	 0	 0	 0
+  604789	 0	 1	-1	 604789	 604819	 0	 0	 0	 0	 0
+  615905	 0	 2	-1	 615905	 615935	 0	 0	 0	 0	 0
+  627021	 0	 1	-1	 627021	 627051	 0	 0	 0	 0	 0
+  676701	 0	 1	-1	 676701	 676731	 0	 0	 0	 0	 0
+  687816	 0	 2	-1	 687816	 687846	 0	 0	 0	 0	 0
+  698933	 0	 1	-1	 698933	 698963	 0	 0	 0	 0	 0
+  710048	 0	 2	-1	 710048	 710078	 0	 0	 0	 0	 0
+  721164	 0	 1	-1	 721164	 721194	 0	 0	 0	 0	 0
+  732280	 0	 2	-1	 732280	 732310	 0	 0	 0	 0	 0
+  743395	 0	 2	-1	 743395	 743425	 0	 0	 0	 0	 0
+  754512	 0	 1	-1	 754512	 754542	 0	 0	 0	 0	 0
+  758100	 0	 800000	-1	 758100	 758100	 0	 0	 0	 0	 0
+  758101	 0	 800001	-1	 758101	 758101	 0	 0	 0	 0	 0
+  766625	 0	 2	-1	 766625	 766655	 0	 0	 0	 0	 0
+  777775	 0	 1	-1	 777775	 777805	 0	 0	 0	 0	 0
+  788907	 0	 2	-1	 788907	 788937	 0	 0	 0	 0	 0
+  800022	 0	 1	-1	 800022	 800053	 0	 0	 0	 0	 0
+NUMBER_LIST END_LIST
+
+REMARK_LIST START
+   ListDescription      = event annotations
+   ListUnits            = 
+   ListNrColumns        =  260
+   ListNrRows           =  62
+   ListNrTimepts        =  1
+   ListNrBlocks         =  1
+   ListBinary           =  0
+   ListType             =  5
+   ListTrafoType        =  0
+   ListGridType         =  2
+   ListFirstColumn      =  1
+   ListIndexMin         = -1
+   ListIndexMax         = -1
+   ListIndexAbsMax      = -1
+REMARK_LIST END
+
+REMARK_LIST START_LIST	# Do not edit!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REMARK_LIST END_LIST
+
