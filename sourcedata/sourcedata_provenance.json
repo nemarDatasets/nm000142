@@ -14,351 +14,292 @@
   {
    "file": "subject1/motor1.ceo",
    "bytes": 9713,
-   "sha256": "f5d8bc5bc036ddddeebb505124b06e0d924a3b987f740b69842b36fc7ea4e848",
-   "subject": "6"
+   "sha256": "f5d8bc5bc036ddddeebb505124b06e0d924a3b987f740b69842b36fc7ea4e848"
   },
   {
    "file": "subject1/motor1.dap",
    "bytes": 8313,
-   "sha256": "a83a3c246a6d4741b98002fac72a3a3beb25bdd78fd51f9edfbdcc0fb44a8e71",
-   "subject": "6"
+   "sha256": "a83a3c246a6d4741b98002fac72a3a3beb25bdd78fd51f9edfbdcc0fb44a8e71"
   },
   {
    "file": "subject1/motor1.dat",
    "bytes": 518073600,
-   "sha256": "66a49876940fda93fb0a4203ac1ea9c7bb1ea64e7557628a61988369bd271a99",
-   "subject": "6"
+   "sha256": "66a49876940fda93fb0a4203ac1ea9c7bb1ea64e7557628a61988369bd271a99"
   },
   {
    "file": "subject1/motor1.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject1/motor2.ceo",
    "bytes": 9719,
-   "sha256": "31db9a231d12bb044e6467b4101df50c98f8845aebb1c46619a4db183d8a28ee",
-   "subject": "6"
+   "sha256": "31db9a231d12bb044e6467b4101df50c98f8845aebb1c46619a4db183d8a28ee"
   },
   {
    "file": "subject1/motor2.dap",
    "bytes": 2657,
-   "sha256": "9624ed6087e05846cf470ca1496a1890d414ad2932770dd63c36986d1ed78aac",
-   "subject": "6"
+   "sha256": "9624ed6087e05846cf470ca1496a1890d414ad2932770dd63c36986d1ed78aac"
   },
   {
    "file": "subject1/motor2.dat",
    "bytes": 520080000,
-   "sha256": "c4b8b0b5d3bac84ec2905036e8081fadb633ccd561323d734116c570c3df44d3",
-   "subject": "6"
+   "sha256": "c4b8b0b5d3bac84ec2905036e8081fadb633ccd561323d734116c570c3df44d3"
   },
   {
    "file": "subject1/motor2.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject1/motor3.ceo",
    "bytes": 9906,
-   "sha256": "d43d6285106f5c2388a4b422b4932a52ea86d0f8ff78548947c8a2d57e75ede3",
-   "subject": "6"
+   "sha256": "d43d6285106f5c2388a4b422b4932a52ea86d0f8ff78548947c8a2d57e75ede3"
   },
   {
    "file": "subject1/motor3.dap",
    "bytes": 8841,
-   "sha256": "d9ee776fd15da88f74d19bbe5bc32f56c94808b074286575b14d7fa0d9845e6c",
-   "subject": "6"
+   "sha256": "d9ee776fd15da88f74d19bbe5bc32f56c94808b074286575b14d7fa0d9845e6c"
   },
   {
    "file": "subject1/motor3.dat",
    "bytes": 540091200,
-   "sha256": "a43af7589bc851574f81f3680eb799120faa1907ba54a2863b9ebf6a57a7ecac",
-   "subject": "6"
+   "sha256": "a43af7589bc851574f81f3680eb799120faa1907ba54a2863b9ebf6a57a7ecac"
   },
   {
    "file": "subject1/motor3.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject2/motor.ceo",
    "bytes": 15963,
-   "sha256": "74c1945fd687866bffe487f96cb80a23492690ec3d339efdebb03734579ffb98",
-   "subject": "6"
+   "sha256": "74c1945fd687866bffe487f96cb80a23492690ec3d339efdebb03734579ffb98"
   },
   {
    "file": "subject2/motor.dap",
    "bytes": 2659,
-   "sha256": "3035f301e9ac74a51df106628261e5ef59cbbf330c7778cf043bc38b7703b395",
-   "subject": "6"
+   "sha256": "3035f301e9ac74a51df106628261e5ef59cbbf330c7778cf043bc38b7703b395"
   },
   {
    "file": "subject2/motor.dat",
    "bytes": 1072684800,
-   "sha256": "a43667fc9d524e88fd17c89b21e84bb96994137b74106f9090e6236400a90e95",
-   "subject": "6"
+   "sha256": "a43667fc9d524e88fd17c89b21e84bb96994137b74106f9090e6236400a90e95"
   },
   {
    "file": "subject2/motor.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject3/motor.ceo",
    "bytes": 16452,
-   "sha256": "bf219cf788b7e9ce530c60bb5dc453611a9e670b73a521a92e7a36fb19e78b3f",
-   "subject": "6"
+   "sha256": "bf219cf788b7e9ce530c60bb5dc453611a9e670b73a521a92e7a36fb19e78b3f"
   },
   {
    "file": "subject3/motor.dap",
    "bytes": 9449,
-   "sha256": "ae5420d1fa4ebe30e6d4453549c457a527159b0c314137a78de2e73e8a28dd3c",
-   "subject": "6"
+   "sha256": "ae5420d1fa4ebe30e6d4453549c457a527159b0c314137a78de2e73e8a28dd3c"
   },
   {
    "file": "subject3/motor.dat",
    "bytes": 1025428800,
-   "sha256": "127c2546a4ddc5cdb060aa178d3a1e095a4f14ab7b51c33182a74c201ebe51dc",
-   "subject": "6"
+   "sha256": "127c2546a4ddc5cdb060aa178d3a1e095a4f14ab7b51c33182a74c201ebe51dc"
   },
   {
    "file": "subject3/motor.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject4/motor.ceo",
    "bytes": 9879,
-   "sha256": "96ead5c08e91c1044bc51426caab33f6fa943acb3ae8342e206eddba265b52cd",
-   "subject": "6"
+   "sha256": "96ead5c08e91c1044bc51426caab33f6fa943acb3ae8342e206eddba265b52cd"
   },
   {
    "file": "subject4/motor.dap",
    "bytes": 8744,
-   "sha256": "18cacc179c963258899c88827ce3026d1a6f4554bad914c5daadc1ea373bc940",
-   "subject": "6"
+   "sha256": "18cacc179c963258899c88827ce3026d1a6f4554bad914c5daadc1ea373bc940"
   },
   {
    "file": "subject4/motor.dat",
    "bytes": 518654400,
-   "sha256": "cf6bc5e2e224739b5e9bb2f2f453d24d541c9894c4348281df4462159bb8142a",
-   "subject": "6"
+   "sha256": "cf6bc5e2e224739b5e9bb2f2f453d24d541c9894c4348281df4462159bb8142a"
   },
   {
    "file": "subject4/motor.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject5/Motor1.ceo",
    "bytes": 9776,
-   "sha256": "b5e1690e812e722e74bd5ae907d84f30bc2e483e5516499db5305bc84895e84c",
-   "subject": "6"
+   "sha256": "b5e1690e812e722e74bd5ae907d84f30bc2e483e5516499db5305bc84895e84c"
   },
   {
    "file": "subject5/Motor1.dap",
    "bytes": 2657,
-   "sha256": "f604c617f02b57d3f46b9decfcea4a1c8e50a641d8754bee6d2cbfbe84da1b7a",
-   "subject": "6"
+   "sha256": "f604c617f02b57d3f46b9decfcea4a1c8e50a641d8754bee6d2cbfbe84da1b7a"
   },
   {
    "file": "subject5/Motor1.dat",
    "bytes": 664699200,
-   "sha256": "cbc9398d2e2e942673bb593b2883aeb2eac72d99d0117aed5c7af65ace8cdc58",
-   "subject": "6"
+   "sha256": "cbc9398d2e2e942673bb593b2883aeb2eac72d99d0117aed5c7af65ace8cdc58"
   },
   {
    "file": "subject5/Motor1.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject5/Motor2.ceo",
    "bytes": 8388,
-   "sha256": "275b2f88720015ce32a4bc4a7f4c408e2445e3d509d6daff377991e23ad1fcc2",
-   "subject": "6"
+   "sha256": "275b2f88720015ce32a4bc4a7f4c408e2445e3d509d6daff377991e23ad1fcc2"
   },
   {
    "file": "subject5/Motor2.dap",
    "bytes": 2657,
-   "sha256": "544716fcf9d0e65456925ea524c4994c105c3474929ee9bd0b7e9c30eb39212f",
-   "subject": "6"
+   "sha256": "544716fcf9d0e65456925ea524c4994c105c3474929ee9bd0b7e9c30eb39212f"
   },
   {
    "file": "subject5/Motor2.dat",
    "bytes": 430848000,
-   "sha256": "2da1e5d323287a35b673033c6d90ffd511632c216621652b9a4e6302e917c00f",
-   "subject": "6"
+   "sha256": "2da1e5d323287a35b673033c6d90ffd511632c216621652b9a4e6302e917c00f"
   },
   {
    "file": "subject5/Motor2.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject5/Motor3.ceo",
    "bytes": 5963,
-   "sha256": "11fc3dc1be4554fca7f3f397e6a155fc0c676b7bf6f01508221ffb7ab28d1472",
-   "subject": "6"
+   "sha256": "11fc3dc1be4554fca7f3f397e6a155fc0c676b7bf6f01508221ffb7ab28d1472"
   },
   {
    "file": "subject5/Motor3.dap",
    "bytes": 2656,
-   "sha256": "8e3ac8b4920d5e579b90a558d9e78a33cfd60e13a41e9418d5f9b43d9830ca8f",
-   "subject": "6"
+   "sha256": "8e3ac8b4920d5e579b90a558d9e78a33cfd60e13a41e9418d5f9b43d9830ca8f"
   },
   {
    "file": "subject5/Motor3.dat",
    "bytes": 203280000,
-   "sha256": "cf3759c9bd270cda7d301e45ec5138f0f95e0b90104d0893c60daa37c1f852ee",
-   "subject": "6"
+   "sha256": "cf3759c9bd270cda7d301e45ec5138f0f95e0b90104d0893c60daa37c1f852ee"
   },
   {
    "file": "subject5/Motor3.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject5/Motor4.ceo",
    "bytes": 8519,
-   "sha256": "c0d1c7933df39d2f17bacc2c726b732eba14bd0ebb5b74916ee056bd3bf62cff",
-   "subject": "6"
+   "sha256": "c0d1c7933df39d2f17bacc2c726b732eba14bd0ebb5b74916ee056bd3bf62cff"
   },
   {
    "file": "subject5/Motor4.dap",
    "bytes": 2657,
-   "sha256": "402367c8d329770b80b88d30b699273dee9c5cbc1de8a77382d3ad6c9e3c3c0f",
-   "subject": "6"
+   "sha256": "402367c8d329770b80b88d30b699273dee9c5cbc1de8a77382d3ad6c9e3c3c0f"
   },
   {
    "file": "subject5/Motor4.dat",
    "bytes": 420974400,
-   "sha256": "51e0792f663d0eab151ddfaed7f725b672c5580e4bc50d3033f06d679304c4ed",
-   "subject": "6"
+   "sha256": "51e0792f663d0eab151ddfaed7f725b672c5580e4bc50d3033f06d679304c4ed"
   },
   {
    "file": "subject5/Motor4.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject6/Motor1.ceo",
    "bytes": 9791,
-   "sha256": "d212055dce1d6cbc36a216846f948336926b679c4acfdd65b5398005abc19a97",
-   "subject": "6"
+   "sha256": "d212055dce1d6cbc36a216846f948336926b679c4acfdd65b5398005abc19a97"
   },
   {
    "file": "subject6/Motor1.dap",
    "bytes": 2730,
-   "sha256": "5c3b89d8f1dd9e1ae916d7938f126e3b8fb9eede287dc2e010d840f6f6b8d14b",
-   "subject": "6"
+   "sha256": "5c3b89d8f1dd9e1ae916d7938f126e3b8fb9eede287dc2e010d840f6f6b8d14b"
   },
   {
    "file": "subject6/Motor1.dat",
    "bytes": 632860800,
-   "sha256": "3e7f65d534f42d7060102f1e3455744499c11e2dc4bf843fbc2eee687149c73e",
-   "subject": "6"
+   "sha256": "3e7f65d534f42d7060102f1e3455744499c11e2dc4bf843fbc2eee687149c73e"
   },
   {
    "file": "subject6/Motor1.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject6/Motor2.ceo",
    "bytes": 9722,
-   "sha256": "91e04ea541bdab75ad5d3e275f4e855446f70e7dab5b6ea1497a6013fe56f8ba",
-   "subject": "6"
+   "sha256": "91e04ea541bdab75ad5d3e275f4e855446f70e7dab5b6ea1497a6013fe56f8ba"
   },
   {
    "file": "subject6/Motor2.dap",
    "bytes": 8417,
-   "sha256": "7923f26852e8345b8de991c9de1e84556a87e4d04ec61900234ab5d2b1f47d14",
-   "subject": "6"
+   "sha256": "7923f26852e8345b8de991c9de1e84556a87e4d04ec61900234ab5d2b1f47d14"
   },
   {
    "file": "subject6/Motor2.dat",
    "bytes": 535392000,
-   "sha256": "95e063fd60e1903b70fbfa92bdf0240e33e9ec4128e770df6673808b2fd7a7d2",
-   "subject": "6"
+   "sha256": "95e063fd60e1903b70fbfa92bdf0240e33e9ec4128e770df6673808b2fd7a7d2"
   },
   {
    "file": "subject6/Motor2.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "subject6/Motor3.ceo",
    "bytes": 9719,
-   "sha256": "a6de9acdc2599f51f58cdfdd61c6aa00ae9927070b17e8bf6f038b430823d43c",
-   "subject": "6"
+   "sha256": "a6de9acdc2599f51f58cdfdd61c6aa00ae9927070b17e8bf6f038b430823d43c"
   },
   {
    "file": "subject6/Motor3.dap",
    "bytes": 2730,
-   "sha256": "2246d93f4b5fff1f9f7649f7b906c183ed271bfdb2cfb7357d3d1686587c9f48",
-   "subject": "6"
+   "sha256": "2246d93f4b5fff1f9f7649f7b906c183ed271bfdb2cfb7357d3d1686587c9f48"
   },
   {
    "file": "subject6/Motor3.dat",
    "bytes": 530798400,
-   "sha256": "18dcad61ad4df03cd4d04b138a49122d8dacfb27d2c602376ecea7f42d7dc295",
-   "subject": "6"
+   "sha256": "18dcad61ad4df03cd4d04b138a49122d8dacfb27d2c602376ecea7f42d7dc295"
   },
   {
    "file": "subject6/Motor3.rs3",
    "bytes": 8560,
-   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65",
-   "subject": "6"
+   "sha256": "51578f67684cec3d111a74d754efc6dc99bb09af2c89df09c4e64ad0a4042f65"
   },
   {
    "file": "zenodo/18961128/subject1.zip",
    "bytes": 1424422293,
-   "sha256": "058f5bbd59a0f0721714c219edcc4043172573f3f10c17422f838dc1561438d7",
-   "subject": "6"
+   "sha256": "058f5bbd59a0f0721714c219edcc4043172573f3f10c17422f838dc1561438d7"
   },
   {
    "file": "zenodo/18961128/subject2.zip",
    "bytes": 998243470,
-   "sha256": "798ef96b96f12d7573be13a8d17b405516633efa8c922e18b3be3f3e71f01cbb",
-   "subject": "6"
+   "sha256": "798ef96b96f12d7573be13a8d17b405516633efa8c922e18b3be3f3e71f01cbb"
   },
   {
    "file": "zenodo/18961128/subject3.zip",
    "bytes": 935776371,
-   "sha256": "26cc84f5b7d1b8abee340f1459c6cf5a2de4a996854aecc95fb3d940860887bb",
-   "subject": "6"
+   "sha256": "26cc84f5b7d1b8abee340f1459c6cf5a2de4a996854aecc95fb3d940860887bb"
   },
   {
    "file": "zenodo/18961128/subject4.zip",
    "bytes": 473211737,
-   "sha256": "c88a4bcafe2e8f2a073f41f6eeac76efe835667ee9055b15c20806a25dce49d8",
-   "subject": "6"
+   "sha256": "c88a4bcafe2e8f2a073f41f6eeac76efe835667ee9055b15c20806a25dce49d8"
   },
   {
    "file": "zenodo/18961128/subject5.zip",
    "bytes": 1527545073,
-   "sha256": "d6ee1800f68eaf7aa0928b8e34a944a982d71c1c8166aeef14b2b91803533efd",
-   "subject": "6"
+   "sha256": "d6ee1800f68eaf7aa0928b8e34a944a982d71c1c8166aeef14b2b91803533efd"
   },
   {
    "file": "zenodo/18961128/subject6.zip",
    "bytes": 1499933075,
-   "sha256": "34af6e66df75c0ca28e0d1cb789526227c530dc192bd15e27b0a22289fd8244f",
-   "subject": "6"
+   "sha256": "34af6e66df75c0ca28e0d1cb789526227c530dc192bd15e27b0a22289fd8244f"
   }
- ],
- "n_subjects_recorded": 1
+ ]
 }
