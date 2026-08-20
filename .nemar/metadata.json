@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Ear-EEG motor execution dataset from Wu et al 2020",
-  "description": "This dataset comprises ear-EEG recordings from six healthy participants performing motor execution tasks (fist clenching) with simultaneous scalp and ear-based EEG acquisition. The study includes 1,114 trials of left and right hand motor imagery cued by visual and auditory stimuli, sampled at 1000 Hz across 122 scalp channels. The dataset serves as a benchmark for investigating in-ear sensing capabilities for motor task classification using brain-computer interface paradigms.",
-  "methods_description": "EEG data were acquired using a Neuroscan SynAmps2 system at 1000 Hz sampling rate with 122 scalp channels (Ag/AgCl sensors) referenced to scalp REF with scalp GRD ground. Online bandpass filtering (0.5-100 Hz) was applied. Participants performed motor execution tasks (fist clenching) cued by visual and auditory stimuli in a synchronous, offline paradigm. Trial duration was 4 seconds with no feedback provided.",
+  "description": "This dataset contains ear-EEG and scalp-EEG recordings from six healthy right-handed subjects performing a motor execution (fist clenching) task with left- and right-hand movements. Data were collected simultaneously from scalp and in-ear electrodes to evaluate the feasibility of ear-EEG for motor task classification. The dataset is a BIDS-formatted derivative generated using MOABB from the original data of Wu et al. (2020).",
+  "methods_description": "EEG was recorded using a Neuroscan SynAmps2 system with 122 channels (112 EEG, 10 misc) at a sampling rate of 1000 Hz, using a standard_1005 montage, Ag/AgCl electrodes, scalp reference and ground, and online bandpass filtering (0.5-100 Hz). Subjects performed left-hand or right-hand fist clenching in response to visual arrow cues, with trials of 4 s duration, in a synchronous offline paradigm.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -27,16 +27,16 @@
       "term": "motor imagery"
     },
     {
-      "term": "brain-computer interfaces"
+      "term": "ear-EEG"
     },
     {
       "term": "motor execution"
     },
     {
-      "term": "ear-EEG"
+      "term": "brain-computer interface"
     },
     {
-      "term": "motor control"
+      "term": "EEGNet"
     }
   ],
   "related_identifiers": [
@@ -88,5 +88,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "e0f108ebcb24c8b96f5480bcdc814634a97784be28771b6acd5fb979c6c2f91c"
+  "source_hash": "957feb36e4a950c519c6b317d72826cc9db53fa04843d1b0acd0561683a1cbaf"
 }
