@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Ear-EEG motor execution dataset from Wu et al 2020",
-  "description": "This dataset contains ear-EEG and scalp-EEG recordings from six healthy right-handed subjects performing a motor execution (fist clenching) task with left- and right-hand movements. Data were collected simultaneously from scalp and in-ear electrodes to evaluate the feasibility of ear-EEG for motor task classification. The dataset is a BIDS-formatted derivative generated using MOABB from the original data of Wu et al. (2020).",
-  "methods_description": "EEG was recorded using a Neuroscan SynAmps2 system with 122 channels (112 EEG, 10 misc) at a sampling rate of 1000 Hz, using a standard_1005 montage, Ag/AgCl electrodes, scalp reference and ground, and online bandpass filtering (0.5-100 Hz). Subjects performed left-hand or right-hand fist clenching in response to visual arrow cues, with trials of 4 s duration, in a synchronous offline paradigm.",
+  "description": "This dataset contains simultaneous scalp and ear-EEG recordings from six healthy right-handed participants performing cued left- and right-hand fist clenching (motor execution). It comprises 1114 trials recorded at 1000 Hz with a Neuroscan SynAmps2 amplifier. The data support evaluation of in-ear sensing for motor task classification and brain-computer interface research. This BIDS version was generated with MOABB from the original Zenodo deposit.",
+  "methods_description": "EEG was recorded with a Neuroscan SynAmps2 system at 1000 Hz using Ag/AgCl sensors (122 EEG channels plus 10 misc channels, standard_1005 montage, 0.5-100 Hz online bandpass). Participants performed visually cued left- or right-hand fist clenching over 4 s trials, with simultaneous scalp and ear-EEG recording.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -24,9 +24,6 @@
       "term": "EEG"
     },
     {
-      "term": "motor imagery"
-    },
-    {
       "term": "ear-EEG"
     },
     {
@@ -36,7 +33,12 @@
       "term": "brain-computer interface"
     },
     {
-      "term": "EEGNet"
+      "term": "motor imagery"
+    },
+    {
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     }
   ],
   "related_identifiers": [
@@ -72,7 +74,7 @@
     "eeg"
   ],
   "sizes": [
-    "19.8 GB (35 files)"
+    "18.41 GB (35 files)"
   ],
   "formats": [
     ".bdf",
