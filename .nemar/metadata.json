@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Ear-EEG motor execution dataset from Wu et al 2020",
-  "description": "This dataset contains simultaneous scalp and ear-EEG recordings from six healthy right-handed participants performing cued left- and right-hand fist clenching (motor execution). It comprises 1114 trials recorded at 1000 Hz with a Neuroscan SynAmps2 amplifier. The data support evaluation of in-ear sensing for motor task classification and brain-computer interface research. This BIDS version was generated with MOABB from the original Zenodo deposit.",
-  "methods_description": "EEG was recorded with a Neuroscan SynAmps2 system at 1000 Hz using Ag/AgCl sensors (122 EEG channels plus 10 misc channels, standard_1005 montage, 0.5-100 Hz online bandpass). Participants performed visually cued left- or right-hand fist clenching over 4 s trials, with simultaneous scalp and ear-EEG recording.",
+  "description": "This dataset contains simultaneous scalp and ear-EEG recordings from six healthy right-handed participants performing cued left- and right-hand fist clenching (motor execution). It comprises 1114 trials recorded at 1000 Hz with a Neuroscan SynAmps2 amplifier across 122 EEG channels. The dataset supports investigation of in-ear sensing for motor task classification and brain-computer interface benchmarking.",
+  "methods_description": "Participants performed cued left- or right-hand fist clenching in response to visual arrow cues, with 4 s trials. EEG was recorded with Ag/AgCl sensors (standard_1005 montage, scalp reference and ground) using a Neuroscan SynAmps2 amplifier at 1000 Hz with a 0.5-100 Hz online bandpass filter. Data were converted to BIDS using MOABB.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -33,12 +33,12 @@
       "term": "brain-computer interface"
     },
     {
-      "term": "motor imagery"
+      "term": "Hand Strength",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D018737"
     },
     {
-      "term": "Electroencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+      "term": "motor task classification"
     }
   ],
   "related_identifiers": [
@@ -90,5 +90,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "957feb36e4a950c519c6b317d72826cc9db53fa04843d1b0acd0561683a1cbaf"
+  "source_hash": "96544f873aaf867276c550de5136ca76cb56a5250c7b7a3e56a5116f69ad25d2"
 }
